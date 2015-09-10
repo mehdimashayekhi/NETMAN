@@ -1,0 +1,77 @@
+--------------------Configuration: Main - Win32 Debug--------------------
+Begining build with project "C:\Netman\Test\Test\Main.dsp", at root.
+Active configuration is Win32 (x86) Console Application (based on Win32 (x86) Console Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Main.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Win32 Resource Compiler" with flags "/l 0x409 /d "_DEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"c:\netman\test/Main.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"c:\netman\test/Main.pdb" /debug /machine:I386 /out:"c:\netman\test/Main.exe" /pdbtype:sept "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\WINDOWS\TEMP\RSPD230.TMP" with contents </nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Main.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\Netman\Test\Test\userfunc.c"
+>
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSPD230.TMP" 
+Creating temp file "C:\WINDOWS\TEMP\RSPD231.TMP" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"c:\netman\test/Main.pdb" /debug /machine:I386 /out:"c:\netman\test/Main.exe" /pdbtype:sept 
+.\Debug\Arc.obj
+.\Debug\Color.obj
+.\Debug\define.obj
+.\Debug\define00.obj
+.\Debug\define01.obj
+.\Debug\define02.obj
+.\Debug\define03.obj
+.\Debug\define04.obj
+.\Debug\define05.obj
+.\Debug\define06.obj
+.\Debug\define07.obj
+.\Debug\define08.obj
+.\Debug\define09.obj
+.\Debug\define10.obj
+.\Debug\define11.obj
+.\Debug\define12.obj
+.\Debug\define13.obj
+.\Debug\define14.obj
+.\Debug\define15.obj
+.\Debug\define16.obj
+.\Debug\define17.obj
+.\Debug\define18.obj
+.\Debug\define19.obj
+.\Debug\define20.obj
+.\Debug\define21.obj
+.\Debug\define22.obj
+.\Debug\define23.obj
+.\Debug\define24.obj
+.\Debug\define25.obj
+.\Debug\define26.obj
+.\Debug\define27.obj
+.\Debug\define28.obj
+.\Debug\define29.obj
+.\Debug\define30.obj
+.\Debug\Dmac.obj
+.\Debug\Dplayer.obj
+.\Debug\Enabled.obj
+.\Debug\Expo.obj
+.\Debug\Fire.obj
+.\Debug\Init.obj
+.\Debug\Main.obj
+.\Debug\marking.obj
+.\Debug\Memlist.obj
+.\Debug\Memory.obj
+.\Debug\Petriusr.obj
+.\Debug\Place.obj
+.\Debug\Player.obj
+.\Debug\Print.obj
+.\Debug\Stats.obj
+.\Debug\Token.obj
+.\Debug\Trans.obj
+.\Debug\userfunc.obj>
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSPD231.TMP" 
+Compiling...
+userfunc.c
+Linking...
+
+
+
+Main.exe - 0 error(s), 0 warning(s)

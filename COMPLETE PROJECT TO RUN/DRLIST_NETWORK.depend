@@ -1,0 +1,292 @@
+# depslib dependency file v1.0
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\arc.c
+	"petri.h"
+	<stdlib.h>
+
+1401128925 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\petri.h
+	"petriusr.h"
+	"superusr.h"
+	"sysfunc.h"
+
+1405535095 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\petriusr.h
+	"petri.h"
+
+1403138907 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\superusr.h
+	"petri.h"
+	<stdio.h>
+	<stdlib.h>
+
+863673520 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\sysfunc.h
+	"petri.h"
+
+1403126043 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\color.c
+	"petri.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1403108290 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+900014962 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\userfunc.h
+	"petri.h"
+	<stdio.h>
+	<stdlib.h>
+
+1403140732 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define00.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403142291 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define01.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403144368 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define02.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403145596 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define03.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403145893 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define04.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108393 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define05.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108418 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define06.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108439 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define07.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108461 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define08.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108480 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define09.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108499 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define10.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108521 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define11.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108539 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define12.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108560 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define13.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108581 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define14.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108601 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define15.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108662 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define16.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108697 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define17.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108719 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define18.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108740 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define19.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108760 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define20.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108780 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define21.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108800 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define22.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108819 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define23.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108843 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define24.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108867 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define25.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108901 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define26.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108930 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define27.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108951 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define28.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403108977 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define29.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+1403109006 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\define30.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\dmac.c
+
+863673524 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\dplayer.c
+	"petri.h"
+	"userfunc.h"
+	"dplayer.h"
+	<stdio.h>
+
+863673522 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\dplayer.h
+	<windows.h>
+	"XObject.h"
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\enabled.c
+	"petri.h"
+	<stdio.h>
+
+1409067149 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\expo.c
+	"petri.h"
+	<math.h>
+	<stdlib.h>
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\fire.c
+	"petri.h"
+	<stdio.h>
+	<stdlib.h>
+
+1401121708 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\init.c
+	"petri.h"
+
+1405525819 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\main.c
+	"petri.h"
+	"superusr.h"
+	"userfunc.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1403109613 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\marking.c
+	"petri.h"
+	"userfunc.h"
+	<stdlib.h>
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\memlist.c
+	"petri.h"
+	<memory.h>
+	<string.h>
+
+863673524 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\memory.c
+	"petri.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"dplayer.h"
+
+1405534974 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\petriusr.c
+	"petri.h"
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\place.c
+	"petri.h"
+	<stdlib.h>
+	<stdio.h>
+	"dplayer.h"
+
+1405527758 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\player.c
+	"petri.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1405527230 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\print.c
+	"petri.h"
+	<stdio.h>
+	<stdarg.h>
+	<conio.h>
+	<iostream>
+	<fstream>
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\stats.c
+	"petri.h"
+	<stdio.h>
+	<stdlib.h>
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\token.c
+	"petri.h"
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+
+863673522 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\trans.c
+	"petri.h"
+
+1403109645 source:c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\userfunc.c
+	"petri.h"
+	"userfunc.h"
+	"Mycode.h"
+
+1408631699 c:\users\mehdimashayekhi\desktop\c++alaki\drlist_network\mycode.h
+	<math.h>
+

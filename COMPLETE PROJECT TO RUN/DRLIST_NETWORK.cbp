@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DRLIST_NETWORK" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DRLIST_NETWORK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DRLIST_NETWORK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ARC.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="COLOR.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DMAC.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DPLAYER.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ENABLED.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EXPO.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FIRE.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="INIT.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MAIN.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MEMLIST.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MEMORY.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PETRIUSR.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PLACE.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PLAYER.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PRINT.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="STATS.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TOKEN.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TRANS.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define00.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define01.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define02.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define03.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define04.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define05.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define06.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define07.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define08.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define09.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define10.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define11.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define12.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define13.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define14.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define15.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define16.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define17.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define18.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define19.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define20.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define21.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define22.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define23.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define24.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define25.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define26.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define27.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define28.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define29.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define30.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="marking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="userfunc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
